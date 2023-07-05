@@ -1,0 +1,13 @@
+h1{
+    background-color: brown;
+    text-align: center;
+    color: aqua;
+}
+.box 
+{
+color: purple;
+font-style: italic;
+font-size: larger;
+margin-left: 20px;
+float: left;
+}
